@@ -13,3 +13,11 @@ James Xu - This code is a clone of https://github.com/varadbhogayata/varadbhogay
 ![](2023-09-28-14-15-51.png)
 ![](2023-09-28-14-15-11.png)
 *Activity 2 - My Modifications*
+
+
+![](2023-09-28-14-22-42.png)
+*Activity 2 - Live Page*
+
+![](2023-09-28-14-29-28.png)
+*Activity 3 - Change Color Theme to be more painful to look at*
+
