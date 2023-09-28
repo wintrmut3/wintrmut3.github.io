@@ -6,3 +6,10 @@ James Xu - This code is a clone of https://github.com/varadbhogayata/varadbhogay
 
 ![](2023-09-28-13-41-46.png)
 *Activity 1 - Image of Repo on github before I commit the images and cloned code*
+
+![](2023-09-28-14-03-54.png)
+![](2023-09-28-14-04-24.png)
+![](2023-09-28-14-04-34.png)
+![](2023-09-28-14-15-51.png)
+![](2023-09-28-14-15-11.png)
+*Activity 2 - My Modifications*
